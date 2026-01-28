@@ -2,19 +2,19 @@
 
 This project is a **single-page resume website** built using **only HTML**
 
-## 🔗 Live Demo
+## Live Demo
 
-👉 **Website:**  
+👉🏻 **Website:**  
 https://gmpratim.github.io/Resume/
 
-👉 **GitHub Repository:**  
+👉🏻 **GitHub Repository:**  
 https://github.com/GmPratim/Resume
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5 only**
 
-## ✨ Features
+## Features
 
 - Single-page resume layout
 - Centered PDF-style design
@@ -27,7 +27,7 @@ https://github.com/GmPratim/Resume
   - Skills
   - Certificates
 
-  ## 🚀 How to Run Locally
+  ## How to Run Locally
 
 1. Create a new folder on your PC.
    Then open this folder in VS Code or any other IDE.
