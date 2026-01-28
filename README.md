@@ -45,3 +45,13 @@ https://github.com/GmPratim/Resume
    cd Resume
    ```
 5. Open index.html in any web browser.
+
+## 📸 Screenshots preview
+
+### Resume – Top Section
+
+![Resume Top](screenshots/resume-top-ss.png)
+
+### Resume – Bottom Section
+
+![Resume Full](screenshots/resume-ss.png)
